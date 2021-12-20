@@ -4,7 +4,7 @@ In this research, we examine the few-shot capabilities of two well-known self-su
 
 <img src="https://user-images.githubusercontent.com/22906652/146695744-2ce62b38-55b2-444b-b878-d1fcfcef5b84.png" width="500" height="200">
 
-The  performance  of  few  shottransfer via linear evaluation on CIFAR10 and STL10. 
+The  performance of few-shot transfer via linear evaluation for image classification on CIFAR10 and STL10. 
 
 <img width="688" alt="Screen Shot 2021-12-19 at 4 35 57 PM" src="https://user-images.githubusercontent.com/22906652/146699754-eea55a58-425a-4cae-ae26-2dfa7586bc7a.png">
 
